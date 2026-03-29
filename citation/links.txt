@@ -1,0 +1,2 @@
+sanepa1 : https://www.jatit.org/volumes/Vol103No16/3Vol103No16.pdf
+sanepa2 : https://www.researchgate.net/publication/276229855_AI_Based_STATCOM_for_Power_Quality_Enhancement
