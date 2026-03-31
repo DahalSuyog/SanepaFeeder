@@ -5,7 +5,7 @@ STATCOM model for singular grid and singular load is completed.
 Reactive power is supplied by inverter but the grid also provides enough for the load.
 Source current is very high.
 ![alt text](<Screenshot 2026-03-31 at 8.08.50 pm.png>)
-But he voltage mnaintains constant value.
+But the voltage maintains constant value.
 ![alt text](image-1.png)
 Probably need to fix PID.
 Also reference voltage for the inverter is also fluctuating and failing to maintain the value of 800V.
