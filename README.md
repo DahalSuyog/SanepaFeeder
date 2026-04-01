@@ -2,7 +2,7 @@
 
 ## Update 1st April (daari)
 ## Different Types of fault and response of Dvr in Different Fault type
-![Conference Info](member/subash/Picture/Fault conditions.jpg)
+![Different type of Fault](member/subash/Picture/Fault conditions.jpg)
 ### 1. Source Voltage (Vsource)
 
 The source voltage experiences different types of faults over time:
