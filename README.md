@@ -1,23 +1,6 @@
 # TITILE : ANALYSIS OF POWER, REACTIVE POWER AND VOLTAGES PROVIDED STATCOM AND DVR DURING FAULT AND LOAD ADDITION AND DETERMINATION OF OPTIMAL PLACEMENT USING REINFORCEMENT LEARNING ON SANEPA FEEDER OF KATHMANDU 
 
-## Update 31 March (Neshan)
-
-STATCOM model for singular grid and singular load is completed.
-Reactive power is supplied by inverter but the grid also provides enough for the load.
-Source current is very high.
-![alt text](<Screenshot 2026-03-31 at 8.08.50 pm.png>)
-But the voltage maintains constant value.
-![alt text](image-1.png)
-Probably need to fix PID.
-Also reference voltage for the inverter is also fluctuating and failing to maintain the value of 800V.
-![alt text](image.png) maintaineance of around 50 V is seen.
-
-May have been problem on inverter and PLL as well.
-Trying to design new singular grid with diffrent inverter, controller and PLL.
-
-## Conference Details
-![Conference Info](member/subash/Picture/Conference_imp_date.png)
-
+## Update 1st April (daari)
 ## Different Types of fault and response of Dvr in Different Fault type
 ![Conference Info](member/subash/Picture/Fault conditions.jpg)
 ### 1. Source Voltage (Vsource)
@@ -72,3 +55,21 @@ The DVR injects voltage only during fault periods.
 ##  Conclusion
 
 The Dynamic Voltage Restorer (DVR) effectively maintains power quality by compensating voltage sags and ensuring a stable, balanced load voltage under all fault conditions.
+## Update 31 March (Neshan)
+
+STATCOM model for singular grid and singular load is completed.
+Reactive power is supplied by inverter but the grid also provides enough for the load.
+Source current is very high.
+![alt text](<Screenshot 2026-03-31 at 8.08.50 pm.png>)
+But the voltage maintains constant value.
+![alt text](image-1.png)
+Probably need to fix PID.
+Also reference voltage for the inverter is also fluctuating and failing to maintain the value of 800V.
+![alt text](image.png) maintaineance of around 50 V is seen.
+
+May have been problem on inverter and PLL as well.
+Trying to design new singular grid with diffrent inverter, controller and PLL.
+
+## Conference Details
+![Conference Info](member/subash/Picture/Conference_imp_date.png)
+
