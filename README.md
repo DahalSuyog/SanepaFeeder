@@ -13,3 +13,6 @@ Also reference voltage for the inverter is also fluctuating and failing to maint
 
 May have been problem on inverter and PLL as well.
 Trying to design new singular grid with diffrent inverter, controller and PLL.
+
+## Conference Details
+![Conference Info](member/subash/Picture/Conference_imp_date.png)
