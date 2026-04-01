@@ -1,20 +1,50 @@
 # TITILE : ANALYSIS OF POWER, REACTIVE POWER AND VOLTAGES PROVIDED STATCOM AND DVR DURING FAULT AND LOAD ADDITION AND DETERMINATION OF OPTIMAL PLACEMENT USING REINFORCEMENT LEARNING ON SANEPA FEEDER OF KATHMANDU 
 
 ## Update 1st April (daari)
-## Different Types of fault and response of Dvr in Different Fault type
-![Fault Conditions](member/subash/Picture/Fault%20conditions.jpg)
-### 1. Source Voltage (Vsource)
+##  Different Types of Faults and DVR Response
+
+<p align="center">
+  <img src="member/subash/Picture/Fault%20conditions.jpg" width="700">
+</p>
+
+---
+
+### 🔌 1. Source Voltage (Vsource)
 
 The source voltage experiences different types of faults over time:
 
-- **0.1–0.2 sec → LG fault**
-![LG_Fault](member/subash/Picture/LG_Fault.jpg)
-- **0.3–0.4 sec → LLG fault**
-![LLG_Fault](member/subash/Picture/LLG_Fault.jpg)
-- **0.5–0.6 sec → LL fault**
-![LL_Fault](member/subash/Picture/LL_Fault.jpg)
-- **0.7–0.8 sec → LLL fault**
-- **0.9–1 sec → LLLG fault**
+---
+
+###  LG Fault (0.1 – 0.2 sec)
+
+<p align="center">
+  <img src="member/subash/Picture/LG_Fault.jpg" width="600">
+</p>
+
+---
+
+###  LLG Fault (0.3 – 0.4 sec)
+
+<p align="center">
+  <img src="member/subash/Picture/LLG_Fault.jpg" width="600">
+</p>
+
+---
+
+###  LL Fault (0.5 – 0.6 sec)
+
+<p align="center">
+  <img src="member/subash/Picture/LL_Fault.jpg" width="600">
+</p>
+
+---
+
+###  LLL Fault (0.7 – 0.8 sec)
+
+---
+
+###  LLLG Fault (0.9 – 1 sec)
+
 
 These faults cause:
 - Voltage sags  
