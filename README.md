@@ -8,8 +8,11 @@
 The source voltage experiences different types of faults over time:
 
 - **0.1–0.2 sec → LG fault**
+![LG_Fault](member/subash/Picture/LG_Fault.jpg)
 - **0.3–0.4 sec → LLG fault**
+![LLG_Fault](member/subash/Picture/LLG_Fault.jpg)
 - **0.5–0.6 sec → LL fault**
+![LL_Fault](member/subash/Picture/LL_Fault.jpg)
 - **0.7–0.8 sec → LLL fault**
 - **0.9–1 sec → LLLG fault**
 
