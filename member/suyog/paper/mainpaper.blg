@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mainpaper.aux
+The style file: ieeetr.bst
+Database file #1: bibfile.bib
+Warning--I didn't find a database entry for "b7"
+You've used 1 entry,
+            1876 wiz_defined-function locations,
+            486 strings with 3830 characters,
+and the built_in function-call counts, 465 in all, are:
+= -- 42
+> -- 26
+< -- 0
++ -- 9
+- -- 8
+* -- 38
+:= -- 74
+add.period$ -- 1
+call.type$ -- 1
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 19
+empty$ -- 34
+format.name$ -- 8
+if$ -- 105
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 6
+num.names$ -- 1
+pop$ -- 2
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 17
+stack$ -- 0
+substring$ -- 40
+swap$ -- 11
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 4
+width$ -- 2
+write$ -- 12
+(There was 1 warning)
