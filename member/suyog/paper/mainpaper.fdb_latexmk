@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1775024218.26886 "/home/suyogdahal/Desktop/project/sanepafeeder/SanepaFeeder/IEEE_Conference_Template/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1775024218.74818 0
+["pdflatex"] 1775026458.28696 "/home/suyogdahal/Desktop/project/sanepafeeder/SanepaFeeder/member/suyog/paper/mainpaper.tex" "mainpaper.pdf" "mainpaper" 1775026458.82138 0
   "/etc/texmf/web2c/texmf.cnf" 1774848053.7616 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/suyogdahal/Desktop/project/sanepafeeder/SanepaFeeder/IEEE_Conference_Template/conference_101719.tex" 1775024217.65688 15317 418fcc73a8072cf921dc73c69e091db9 ""
+  "/home/suyogdahal/Desktop/project/sanepafeeder/SanepaFeeder/member/suyog/paper/mainpaper.tex" 1775026429.07617 14425 6201c3a732d0912f387f940d87e2328d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -87,12 +87,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1774848070.29154 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1774848125 8216601 69ab939588df542ad6322ffd9515a079 ""
-  "IEEEtran.cls" 1774856278.07011 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "conference_101719.aux" 1775024218.69086 2374 ef9e8bef768166409b15f8515fbcbdd4 "pdflatex"
-  "conference_101719.tex" 1775024217.65688 15317 418fcc73a8072cf921dc73c69e091db9 ""
-  "fig1.png" 1774856278.0738 4535 3b4c70b1b9361fad686e8d234c8fe506 ""
+  "IEEEtran.cls" 1775025198.59597 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
+  "fig1.png" 1775025409.02131 4535 3b4c70b1b9361fad686e8d234c8fe506 ""
+  "introduction.tex" 1775026458.16388 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "mainpaper.aux" 1775026458.75787 2374 1becc3489832f638b8fa752ec42eeef9 "pdflatex"
+  "mainpaper.tex" 1775026429.07617 14425 6201c3a732d0912f387f940d87e2328d ""
   (generated)
-  "conference_101719.aux"
-  "conference_101719.log"
-  "conference_101719.pdf"
+  "mainpaper.aux"
+  "mainpaper.log"
+  "mainpaper.pdf"
   (rewritten before read)
